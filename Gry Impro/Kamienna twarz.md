@@ -1,0 +1,3 @@
+#gra
+
+Gracze ustawiają się w dwóch rzędach naprzeciwko siebie, jak w grze [Tylko pytania](https://web.archive.org/web/20220701080111/https://www.impro.info.pl/gry/Tylko-pytania). Gospodarz bierze sugestię od publiczności i gracze na przedzie grają scenkę. Nie mogą się zaśmiać i muszą sobie patrzeć prosto w oczy. Kiedy jedna z osób się choć minimalnie uśmiechnie, schodzi i w jej miejsce wchodzi kolejny gracz. Scenka może toczyć się dalej lub może być to nowa scenka w tym samym miejscu.

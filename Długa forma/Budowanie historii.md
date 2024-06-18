@@ -1,0 +1,10 @@
+Core: [[5 kroków historii]]
+[[Prowadzenie wątku głównego]]
+[[Prowadzenie wątków pobocznych]]
+[[Powracanie do pytań zadanych w innych scenach]]
+[[Scena o efektach decyzji podjętej w poprzedniej scenie]]
+[[Granie sceny w odpowiedzi na pytanie bez odpowiedzi na końcu sceny]]
+[[Powracanie do pytań zadanych w innych scenach]]
+[[Dokonywanie przemiany postaci]]
+
+- [[Przedstawienie, ustalenie świata]]

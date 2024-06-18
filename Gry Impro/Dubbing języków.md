@@ -1,0 +1,2 @@
+#gra
+W tej grze biorą udział 4 osoby – 2 na scenie i 2 poza sceną. Gospodarz zbiera od publiczności sugestie języków, w jakich będzie się odbywała scenka. Osoby na scenie będą imitowały te języki, a osoby spoza sceny dostarczały tłumaczenie w postaci „tekst -> tłumaczenie”. Po zebraniu sugestii języków publiczność wybiera miejsce scenki lub tytuł filmu.

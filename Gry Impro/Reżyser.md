@@ -1,0 +1,2 @@
+#gra
+Grana jest scenka, W dowolnym momencie gracz, który nie występuje akurat na scenie (lub też gracz specjalnie wybrany do tej roli) zatrzymuje scenkę (patrz [Cięcie](https://web.archive.org/web/20220701072427/https://www.impro.info.pl/gry/Ciecie)) i każe graczom powtórzyć scenkę z innymi emocjalmi, postaciami, rolami. Reżyser instruuje aktorów jak mają grać.
